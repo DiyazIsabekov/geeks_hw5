@@ -1,0 +1,13 @@
+.contain{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.btnContain{
+    display: flex;
+}
+.count{
+    margin: 0px 20px;
+}
